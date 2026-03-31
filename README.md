@@ -43,12 +43,21 @@
 ![Cypress](https://img.shields.io/badge/Cypress-ffffff?style=for-the-badge&logo=cypress&logoColor=17202C)
 ![Storybook](https://img.shields.io/badge/Storybook-ffffff?style=for-the-badge&logo=storybook&logoColor=FF4785)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badahertz52&layout=compact)
+## 📚 My Tech Blog
+<div >
 
+**🥳 🎉 새 블로그 OPEN!!**
+<br/>
+- [![Website](https://img.shields.io/badge/BADA.DEV-Visit-ffffff?style=for-the-badge&logo=vercel&logoColor=000000)](https://bada-dev.vercel.app/)
+
+**📖 이전 블로그**
+<br/>
+- [![Velog](https://img.shields.io/badge/Velog%20Archive-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@badahertz52/posts)
+
+</div>
 
 ### 🌱 Study
 - 우아한테크코스 6기 수료
-- Next.js 공부 중🔥 [BOOKER 프로젝트 구경가기](https://github.com/BadaHertz52/booker)
 
 ### 😚 Fun
 - 🚀 ISFJ 
